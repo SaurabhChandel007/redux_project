@@ -1,5 +1,5 @@
 function App() {
-  return <div>redux app</div>;
+  return <div>Redux app</div>;
 }
 
 export default App;
