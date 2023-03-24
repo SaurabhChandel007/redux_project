@@ -6,7 +6,7 @@ const carSet = [
   { id: 3, name: "Ford", price: "20 $" },
   { id: 4, name: "Aulto", price: "50 $" },
 ];
-const Home = () => {
+const Home = () => { 
   return (
     <div>
       <h4>This is Home Component</h4>
