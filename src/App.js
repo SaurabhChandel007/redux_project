@@ -1,5 +1,11 @@
+import HomeContainer from "./containers/HomeContainer";
+
 function App() {
-  return <div>Redux app</div>;
+  return (
+    <>
+      <HomeContainer />
+    </>
+  );
 }
 
 export default App;
